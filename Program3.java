@@ -1,6 +1,6 @@
 
 /**
- * InnerProgram3
+ * another program example
  */
 import java.util.*;
 
